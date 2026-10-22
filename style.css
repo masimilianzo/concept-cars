@@ -167,7 +167,7 @@ img { max-width: 100%; }
 iframe.yt { cursor: default; }
 .detail .gcap { margin-bottom: 24px; }
 @media (max-width: 600px) { .search { font-size: 17px; } }
-.close-tag { display: inline-block; vertical-align: middle; margin-left: 10px; font: 400 11px/1 var(--sans); letter-spacing: .14em; text-transform: uppercase; color: var(--ink); background: var(--soft); border-radius: 980px; padding: 8px 14px; transition: background .2s; white-space: nowrap; }
+.close-tag { display: inline-block; vertical-align: middle; margin: 6px 0 6px 0; font: 400 11px/1 var(--sans); letter-spacing: .14em; text-transform: uppercase; color: var(--ink); background: var(--soft); border-radius: 980px; padding: 8px 14px; transition: background .2s; white-space: nowrap; }
 .close-tag:hover { background: #ebebef; }
 html { scroll-behavior: smooth; }
 #became { scroll-margin-top: 24px; }
